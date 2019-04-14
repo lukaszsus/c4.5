@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554197627719.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2058837330",
+    "id" : "7196ADA",
+    "lastKnownWriteTime" : 1554962513,
+    "last_content_update" : 1555263131227,
+    "path" : "~/Developer/VIII_semestr/IMAD/L2_c45/C4_5/iris.R",
+    "project_path" : "iris.R",
+    "properties" : {
+        "cursorPosition" : "6,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

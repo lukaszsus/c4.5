@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554963704842.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1926271869",
+    "id" : "D592BAD6",
+    "lastKnownWriteTime" : 1555265184,
+    "last_content_update" : 1555265184404,
+    "path" : "~/Developer/VIII_semestr/IMAD/L2_c45/C4_5/c45lib.R",
+    "project_path" : "c45lib.R",
+    "properties" : {
+        "cursorPosition" : "45,4",
+        "scrollLine" : "36",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,7 @@
+classifier;dataset;accuracy;precision;recall;f1 score
+bayes;diabetes;0,755;0,731;0,719;0,724
+C4.5;diabetes;0,737;0,789;0,817;0,801
+bayes;glass;0,468;0,459;0,505;0,460
+C4.5;glass;0,680;0,695;0,670;0,715
+bayes;wine;0,974;0,973;0,976;0,975
+C4.5;wine;0,921;0,929;0,921;0,922

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555263137386.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3659126655",
+    "id" : "83D72FDE",
+    "lastKnownWriteTime" : 1555269184,
+    "last_content_update" : 1555269184404,
+    "path" : "~/Developer/VIII_semestr/IMAD/L2_c45/C4_5/visualization.R",
+    "project_path" : "visualization.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
